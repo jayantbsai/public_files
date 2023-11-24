@@ -6,17 +6,17 @@ GIFTCARD*,$25 Apple Gift Card (Discount),2250,25.00
 GIFTCARD*,$50 Apple Gift Card (Discount),4500,50.00
 GIFTCARD*,$100 Apple Gift Card (Discount),9000,100.00
 ACCESSORY,35W Dual USB-C Port Compact Power Adapter,12400,59.00
-ACCESSORY,96W USB-C Power Adapter,15300,79.00
 ACCESSORY,USB SuperDrive,15300,79.00
+ACCESSORY,96W USB-C Power Adapter,15300,79.00
 ACCESSORY,HomePod mini,18100,99.00
 ACCESSORY,Magic Keyboard with Numeric Keypad,22800,129.00
 ACCESSORY,Magic Trackpad - White,22800,129.00
+ACCESSORY,Smart Keyboard for iPad (9th generation),27100,159.00
 ACCESSORY,Magic Keyboard Folio for iPad (10th generation),40000,249.00
-ACCESSORY,Magic Keyboard Folio for iPad (10th generation),40000,249.00
-ACCESSORY,Magic Keyboard for iPad Pro 11-inch,47200,299.00
-ACCESSORY,Magic Keyboard for iPad Pro 12.9‑inch ,54400,349.00
-TV,TV 4K WiFi 64GB,22500,129.00
-TV,TV 4K WiFi/Ethernet 128GB,25300,149.00
+ACCESSORY,11" Magic Keyboard for iPad Pro (4th Gen) and iPad Air (5th Gen),47200,299.00
+ACCESSORY,12.9" Magic Keyboard for iPad Pro (6th Gen),54400,349.00
+TV,Apple TV 4K WiFi 64GB,22500,129.00
+TV,Apple TV 4K WiFi/Ethernet 128GB,25300,149.00
 DESKTOP,Mac mini 8-Core CPU 10-Core GPU 8GB Unified Memory 256GB SSD,90700,599.00
 DESKTOP,Mac m8-Core CPU 10-Core GPU 8GB Unified Memory 512GB SSD,119500,799.00
 DESKTOP,Mac Studio M2 Max 12-Core CPU 30-Core GPU 512 SSD,292900,1999.00
@@ -24,10 +24,10 @@ HEADPHONE,AirPods - 2nd Gen,22500,129.00
 HEADPHONE,AirPods (3rd generation) with MagSafe Charging Case,29700,179.00
 HEADPHONE,AirPods Pro (2nd generation),39700,249.00
 HEADPHONE,AirPods Max,83500,549.00
-WATCH,Watch SE GPS 40mm,40000,249.00
-WATCH,Watch SE GPS 44mm,44400,279.00
-WATCH,Watch Series 9 GPS 41mm,61600,399.00
-WATCH,Watch Series 9 GPS 45mm,66000,429.00
+WATCH,Apple Watch SE GPS 40mm,40000,249.00
+WATCH,Apple Watch SE GPS 44mm,44400,279.00
+WATCH,Apple Watch Series 9 GPS 41mm,61600,399.00
+WATCH,Apple Watch Series 9 GPS 45mm,66000,429.00
 LAPTOP,15" MacBook Air M2 8-Core CPU 10-Core GPU 256GB SSD,192700,1299.00
 LAPTOP,15" MacBook Air M2 8-Core CPU 10-Core GPU 512GB SSD,221500,1499.00
 LAPTOP,14" MacBook Pro M2 Pro 12‑Core CPU 19‑Core GPU 1TB SSD,365000,2499.00
