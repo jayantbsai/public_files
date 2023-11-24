@@ -1,10 +1,7 @@
 type,product,points,price
-GIFTCARD,$25 Apple Gift Card,2500,25.00
-GIFTCARD,$50 Apple Gift Card,5000,50.00
-GIFTCARD,$100 Apple Gift Card,10000,100.00
-GIFTCARD*,$25 Apple Gift Card (Discount),2250,25.00
-GIFTCARD*,$50 Apple Gift Card (Discount),4500,50.00
-GIFTCARD*,$100 Apple Gift Card (Discount),9000,100.00
+GIFTCARD,$25 Apple Gift Card,2250,25.00
+GIFTCARD,$50 Apple Gift Card,4500,50.00
+GIFTCARD,$100 Apple Gift Card,9000,100.00
 ACCESSORY,35W Dual USB-C Port Compact Power Adapter,12400,59.00
 ACCESSORY,USB SuperDrive,15300,79.00
 ACCESSORY,96W USB-C Power Adapter,15300,79.00
